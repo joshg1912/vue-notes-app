@@ -2,6 +2,8 @@
   <div id="app">
     <Toolbar />
     <NoteContainer />
+    <NoteSelectors />
+    <NoteSelector />
   </div>
 </template>
 <script>
